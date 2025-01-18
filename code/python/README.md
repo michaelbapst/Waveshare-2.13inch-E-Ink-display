@@ -9,7 +9,7 @@ sudo apt install python3-numpy<br>
 sudo apt install python3-gpiozero<br>
 sudo pip3 install spidev<br>
 </code><br>
-For WeatherInk, GeoPy and Open-Meteo libraries are needed:<code>
+For WeatherInk.py, GeoPy and Open-Meteo libraries are needed:<code>
 pip install openmeteo-requests<br>
 pip install requests-cache retry-requests numpy pandas<br>
 pip install geopy<br>
