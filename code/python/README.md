@@ -1,5 +1,5 @@
 Python Code:<br><br>
-I'm assumming that you have your Waveshare 2.13in E-Ink display correcly setup with your hardware. I'm using Waveshare 2.13in E-Ink display HAT V4 connecteted to a Raspberry Pi Zero 2W. If you haven't set it up yet, visit https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_Manual and follow the directions for your hardware.<br><br>
+I'm assuming that you have your Waveshare 2.13in E-Ink display correcly setup with your hardware. I'm using Waveshare 2.13in E-Ink display HAT V4 connected to a Raspberry Pi Zero 2W. If you haven't set it up yet, visit https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_Manual and follow the directions for your hardware.<br><br>
 This next step is for use with Raspberry Pi hardware.<br><br>
 Install the necessary python libraries:<code>
 sudo apt update<br>
